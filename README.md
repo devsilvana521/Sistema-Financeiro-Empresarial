@@ -288,7 +288,7 @@ O `script.js` é dividido em blocos comentados:
 
 Desenvolvido por **SILVANA ELIAS SILVA FARIAS**.
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@seu-usuario](https://github.com/devsilvana521)
 - 
 
 ---

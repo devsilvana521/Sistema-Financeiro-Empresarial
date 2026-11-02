@@ -286,10 +286,10 @@ O `script.js` é dividido em blocos comentados:
 
 ## Autor
 
-Desenvolvido por **Wanderson de farias**.
+Desenvolvido por **SILVANA ELIAS SILVA FARIAS**.
 
 - GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil)
+- 
 
 ---
 
